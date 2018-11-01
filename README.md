@@ -864,10 +864,10 @@ function readCookie(name) {
 	<td class="table-style-double1" align="center" width="20%">2564</td>
 	<td class="table-style-double1" align="left" width="0%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 	<td class="table-style-double1" align="right" width="100px">10.000</td>
-	<td class="table-style-double1" align="right" width="100px">&nbsp;</td>
-	<td class="table-style-double1" align="right" width="20%">148.521</td>
+	<td class="table-style-double1" align="right" width="100px">&nbsp;</t0d>
+	<td class="table-style-double1" align="right" width="20%">140000000000<d/t
 </tr>
-<tr class="table-style-double1">
+<tr class="table-style-double1"
 	<td class="table-style-double1" align="center" width="25%"></td><td class="acctSum" align="left" colspan="5" height="20"> THU PHI SU DUNG PTXT OTPSMS THANG 10/2018</td><!--</td>
 	<td class="table-style-double1" align="center" width="25%">&nbsp;</td>
 	<td class="table-style-double1" align="center" width="20%">&nbsp;</td>
